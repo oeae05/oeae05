@@ -1,9 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Océane
 ==============================================================================================================================
 
-
-
 * 🌍  I'm based in France
+
 
 
 ### Skills
@@ -25,6 +24,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="http://www.github.com/oeae05"><img src="https://github-readme-stats.vercel.app/api?username=oeae05&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=831843&hide_border=true&show_icons=true" alt="oeae05's GitHub stats" /></a>
 
 <a href="https://github.com/oeae05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oeae05&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
 
 
 
