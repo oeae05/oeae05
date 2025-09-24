@@ -82,15 +82,7 @@
 <p align="center">
   <img src="https://spotify-readme.vercel.app/api/?user=316w32sgtw6ytojbat2d2lcgi7fq&background_color=8b5cf6&accent_color=ff69b4&bar_color=ffb6c1" alt="Now Playing on Spotify" />
 </p>
-<p align="center">
-  <!-- WakaTime badge alternatif pour GitHub -->
-  <img src="https://img.shields.io/badge/WakaTime-Coding-blue?style=for-the-badge" alt="Coding Activity"/>
-</p>
 
-<p align="center">
-  <!-- Spotify badge statique pour GitHub -->
-  <img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=fff" alt="Now Playing on Spotify"/>
-</p>
 ---
 
 ### 🌸 Badges
