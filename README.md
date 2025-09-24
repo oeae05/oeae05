@@ -22,7 +22,23 @@
 
 ---
 
-### ⚡ Frameworks & Languages
+### ⚡ Languages
+
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=fff&style=for-the-badge" /></a>
+</p>
+
+---
+
+### ⚡ Frameworks
 
 <p align="center">
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" /></a>
@@ -30,8 +46,8 @@
   <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge" /></a>
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=fff&style=for-the-badge" /></a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" /></a>
 </p>
 
 ---
@@ -63,11 +79,9 @@
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://spotify-readme.vercel.app/api/?user=316w32sgtw6ytojbat2d2lcgi7fq&background_color=8b5cf6&accent_color=ff69b4&bar_color=ffb6c1" alt="Now Playing on Spotify" />
 </p>
-
 
 ---
 
@@ -79,4 +93,3 @@
   <img src="https://img.shields.io/badge/Music-Lover-f39ac7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-32CD32?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
-
