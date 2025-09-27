@@ -73,11 +73,8 @@
   <a href="https://github.com/oeae05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oeae05&langs_count=10&title_color=ffb6c1&text_color=ffffff&icon_color=0891b2&bg_color=8b5cf6&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@164eb9cc-d5a1-47e1-849f-614259132ebc" target="_blank">
-    <img src="https://wakatime.com/badge/user/164eb9cc-d5a1-47e1-849f-614259132ebc.svg" alt="Coding Activity" />
-  </a>
-</p>
+[![wakatime](https://wakatime.com/badge/user/164eb9cc-d5a1-47e1-849f-614259132ebc.svg)](https://wakatime.com/@164eb9cc-d5a1-47e1-849f-614259132ebc)
+
 
 <p align="center">
   <img src="https://spotify-readme.vercel.app/api/?user=316w32sgtw6ytojbat2d2lcgi7fq&background_color=8b5cf6&accent_color=ff69b4&bar_color=ffb6c1" alt="Now Playing on Spotify" />
