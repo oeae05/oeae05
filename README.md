@@ -86,7 +86,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Powered%20by-Sugar-8b5cf6?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
   <img src="https://img.shields.io/badge/Music-Lover-f39ac7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-32CD32?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
